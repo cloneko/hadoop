@@ -6,6 +6,14 @@ Description
 
 ...
 
+Env
+----------------------------
+
+* Download Hadoop and Hive
+* Extract Donwloaded file and Setting PATH/JAVA_HOME
+
+
+
 Usage
 ----------------------------
 
