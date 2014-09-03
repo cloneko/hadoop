@@ -32,4 +32,4 @@ Ref
 
 * [Hadoop](http://hadoop.apache.org/)
 * [Hive](http://hive.apache.org/)
-* [Hadoop＋Hive検証環境を構築してみる (1/3)](http://www.atmarkit.co.jp/ait/articles/0903/09/news094.html)
+* [SQLライクにHadoop Hiveを使い倒す! (1/3)](http://www.atmarkit.co.jp/ait/articles/0903/09/news094.html)
